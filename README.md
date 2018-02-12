@@ -38,6 +38,10 @@ Detailed change history is avaialbe in our [changelog](https://github.com/crawlj
 
 [![Analytics](https://ga-beacon.appspot.com/UA-12224196-2/crawljax/crawljax?pixel)](https://github.com/igrigorik/ga-beacon)
 
+Packaging
+-------
+
+	mvn clean package -DskipTests
 
 Testing
 -------

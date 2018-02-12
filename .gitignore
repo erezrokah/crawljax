@@ -19,3 +19,5 @@ output/
 
 # Mac
 .DS_Store
+
+webDriversDir/
